@@ -1,0 +1,132 @@
+{
+    "id": 1619611018021,
+    "name": "Addition Yaryna",
+    "type": 0,
+    "mod": 1637959924,
+    "usn": 0,
+    "sortf": 0,
+    "did": 1618931579767,
+    "tmpls": [
+        {
+            "name": "a + b = c",
+            "ord": 0,
+            "qfmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n<span id=\"ask\"></span>\n<script>\nvar x = \"{{a}}\";\nvar y = \"{{b}}\";\nvar questions = [`до ${x} додати ${y}`, `${x} збільшити на ${y}`, `${x} + ${y}`, `сума чисел ${x} і ${y}`];\ndocument.getElementById(\"ask\").innerHTML = questions[Math.floor(Math.random() * questions.length)];\n</script>\n\n{{type:c}}",
+            "afmt": "{{FrontSide}}\n",
+            "bqfmt": "",
+            "bafmt": "",
+            "did": null,
+            "bfont": "",
+            "bsize": 0
+        },
+        {
+            "name": "c - a = b",
+            "ord": 1,
+            "qfmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n<span id=\"ask\"></span>\n<script>\nvar x = \"{{c}}\";\nvar y = \"{{a}}\";\nvar questions = [`від ${x} відняти ${y}`, `${x} зменшити на ${y}`, `${x} - ${y}`, `різниця чисел ${x} і ${y}`];\ndocument.getElementById(\"ask\").innerHTML = questions[Math.floor(Math.random() * questions.length)];\n</script>\n\n{{type:b}}",
+            "afmt": "{{FrontSide}}",
+            "bqfmt": "",
+            "bafmt": "",
+            "did": null,
+            "bfont": "",
+            "bsize": 0
+        },
+        {
+            "name": "c - b = a",
+            "ord": 2,
+            "qfmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n<span id=\"ask\"></span>\n<script>\nvar x = \"{{c}}\";\nvar y = \"{{b}}\";\nvar questions = [`від ${x} відняти ${y}`, `${x} зменшити на ${y}`, `${x} - ${y}`, `різниця чисел ${x} і ${y}`];\ndocument.getElementById(\"ask\").innerHTML = questions[Math.floor(Math.random() * questions.length)];\n</script>\n\n{{type:a}}",
+            "afmt": "{{FrontSide}}",
+            "bqfmt": "",
+            "bafmt": "",
+            "did": null,
+            "bfont": "",
+            "bsize": 0
+        },
+        {
+            "name": "b + a = c",
+            "ord": 3,
+            "qfmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n<span id=\"ask\"></span>\n<script>\nvar x = \"{{b}}\";\nvar y = \"{{a}}\";\nvar questions = [`до ${x} додати ${y}`, `${x} збільшити на ${y}`, `${x} + ${y}`, `сума чисел ${x} і ${y}`];\ndocument.getElementById(\"ask\").innerHTML = questions[Math.floor(Math.random() * questions.length)];\n</script>\n\n{{type:c}}",
+            "afmt": "{{FrontSide}}",
+            "bqfmt": "",
+            "bafmt": "",
+            "did": null,
+            "bfont": "",
+            "bsize": 0
+        }
+    ],
+    "flds": [
+        {
+            "name": "id",
+            "ord": 0,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 20
+        },
+        {
+            "name": "a",
+            "ord": 1,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 20
+        },
+        {
+            "name": "b",
+            "ord": 2,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 20
+        },
+        {
+            "name": "c",
+            "ord": 3,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 20
+        }
+    ],
+    "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+    "latexPost": "\\end{document}",
+    "latexsvg": false,
+    "req": [
+        [
+            0,
+            "any",
+            [
+                1,
+                2,
+                3
+            ]
+        ],
+        [
+            1,
+            "any",
+            [
+                1,
+                2,
+                3
+            ]
+        ],
+        [
+            2,
+            "any",
+            [
+                1,
+                2,
+                3
+            ]
+        ],
+        [
+            3,
+            "any",
+            [
+                1,
+                2,
+                3
+            ]
+        ]
+    ],
+    "tags": []
+}
