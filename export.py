@@ -7,6 +7,7 @@ import json
 import os
 from pathlib import Path
 from anki.collection import Collection
+import subprocess
 
 
 out_dir = Path(__file__).absolute().parent.joinpath('out')
@@ -34,8 +35,6 @@ for m in col.models.all():
     with open(f"{dname}/notes", 'w') as f:
         dump_json(notes, f)
 
-# for d in col.decks.all():
-#     print(json.dumps(d, sort_keys=False, indent=4, ensure_ascii=False))
-#     print()
+subprocess.run(['rsync', '-raP', '--delete', f"{col.media.dir()}", out_dir])
 
 col.close()
