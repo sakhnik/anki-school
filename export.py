@@ -14,7 +14,7 @@ out_dir = Path(__file__).absolute().parent.joinpath('out')
 
 
 def dump_json(obj, f):
-    json.dump(obj, f, sort_keys=False, indent=4, ensure_ascii=False)
+    json.dump(obj, f, sort_keys=True, indent=4, ensure_ascii=False)
 
 
 profile = 'new'

@@ -1,68 +1,41 @@
 {
-    "id": 1636530160523,
-    "name": "Definitions Solia",
-    "type": 0,
-    "mod": 1637436873,
-    "usn": 0,
-    "sortf": 0,
+    "css": ".card {\n font-family: DejaVu Sans;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
     "did": 1,
-    "tmpls": [
-        {
-            "name": "Front -> Back",
-            "ord": 0,
-            "qfmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{Front}}<br/>\n<br/>\n<a href=\"https://duckduckgo.com/?q={{Front}}\">В інтернеті</a>\n",
-            "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}<br/>\n\n{{Example}}",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0
-        },
-        {
-            "name": "Back -> Front",
-            "ord": 1,
-            "qfmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{Back}}",
-            "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}<br/>\n<br/>\n{{Example}}<br/>\n<a href=\"https://duckduckgo.com/?q={{Front}}\">В інтернеті</a>\n",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0
-        }
-    ],
     "flds": [
         {
+            "font": "Arial",
+            "media": [],
             "name": "Front",
             "ord": 0,
-            "sticky": false,
             "rtl": false,
-            "font": "Arial",
             "size": 20,
-            "media": []
+            "sticky": false
         },
         {
+            "font": "Arimo",
+            "media": [],
             "name": "Back",
             "ord": 1,
-            "sticky": false,
             "rtl": false,
-            "font": "Arimo",
             "size": 20,
-            "media": []
+            "sticky": false
         },
         {
+            "font": "Arimo",
+            "media": [],
             "name": "Example",
             "ord": 2,
-            "sticky": false,
             "rtl": false,
-            "font": "Arimo",
             "size": 20,
-            "media": []
+            "sticky": false
         }
     ],
-    "css": ".card {\n font-family: DejaVu Sans;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+    "id": 1636530160523,
     "latexPost": "\\end{document}",
+    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
     "latexsvg": false,
+    "mod": 1637436873,
+    "name": "Definitions Solia",
     "req": [
         [
             0,
@@ -79,6 +52,33 @@
             ]
         ]
     ],
-    "vers": [],
-    "tags": []
+    "sortf": 0,
+    "tags": [],
+    "tmpls": [
+        {
+            "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}<br/>\n\n{{Example}}",
+            "bafmt": "",
+            "bfont": "",
+            "bqfmt": "",
+            "bsize": 0,
+            "did": null,
+            "name": "Front -> Back",
+            "ord": 0,
+            "qfmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{Front}}<br/>\n<br/>\n<a href=\"https://duckduckgo.com/?q={{Front}}\">В інтернеті</a>\n"
+        },
+        {
+            "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}<br/>\n<br/>\n{{Example}}<br/>\n<a href=\"https://duckduckgo.com/?q={{Front}}\">В інтернеті</a>\n",
+            "bafmt": "",
+            "bfont": "",
+            "bqfmt": "",
+            "bsize": 0,
+            "did": null,
+            "name": "Back -> Front",
+            "ord": 1,
+            "qfmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{Back}}"
+        }
+    ],
+    "type": 0,
+    "usn": 0,
+    "vers": []
 }

@@ -1,95 +1,46 @@
 {
-    "id": 1618931336086,
-    "name": "Multiplication Yaryna",
-    "type": 0,
-    "mod": 1637437453,
-    "usn": 0,
-    "sortf": 0,
+    "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
     "did": 1618931579767,
-    "tmpls": [
-        {
-            "name": "a * b = c",
-            "ord": 0,
-            "qfmt": "<small card=\"deck\">{{Deck}}</small><br/><br/>\n\n{{a}} · {{b}}\n\n{{type:c}}",
-            "afmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{a}} · {{b}}\n\n<hr id=answer>\n\n{{type:c}}",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0
-        },
-        {
-            "name": "c : a = b",
-            "ord": 1,
-            "qfmt": "<small card=\"deck\">{{Deck}}</small><br/><br/>\n\n{{c}} : {{a}}\n\n{{type:b}}",
-            "afmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{c}} : {{a}}\n\n<hr id=answer>\n\n{{type:b}}",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0
-        },
-        {
-            "name": "c : b = a",
-            "ord": 2,
-            "qfmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{c}} : {{b}}\n\n{{type:a}}",
-            "afmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{c}} : {{b}}\n\n<hr id=answer>\n\n{{type:a}}",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0
-        },
-        {
-            "name": "b * a = c",
-            "ord": 3,
-            "qfmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{b}} · {{a}}\n\n{{type:c}}",
-            "afmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{b}} · {{a}}\n\n<hr id=answer>\n\n{{type:c}}",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0
-        }
-    ],
     "flds": [
         {
+            "font": "Arial",
             "name": "id",
             "ord": 0,
-            "sticky": false,
             "rtl": false,
-            "font": "Arial",
-            "size": 20
+            "size": 20,
+            "sticky": false
         },
         {
+            "font": "Arial",
             "name": "a",
             "ord": 1,
-            "sticky": false,
             "rtl": false,
-            "font": "Arial",
-            "size": 20
+            "size": 20,
+            "sticky": false
         },
         {
+            "font": "Arial",
             "name": "b",
             "ord": 2,
-            "sticky": false,
             "rtl": false,
-            "font": "Arial",
-            "size": 20
+            "size": 20,
+            "sticky": false
         },
         {
+            "font": "Arial",
             "name": "c",
             "ord": 3,
-            "sticky": false,
             "rtl": false,
-            "font": "Arial",
-            "size": 20
+            "size": 20,
+            "sticky": false
         }
     ],
-    "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
-    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+    "id": 1618931336086,
     "latexPost": "\\end{document}",
+    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
     "latexsvg": false,
+    "mod": 1637437453,
+    "name": "Multiplication Yaryna",
     "req": [
         [
             0,
@@ -128,5 +79,54 @@
             ]
         ]
     ],
-    "tags": []
+    "sortf": 0,
+    "tags": [],
+    "tmpls": [
+        {
+            "afmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{a}} · {{b}}\n\n<hr id=answer>\n\n{{type:c}}",
+            "bafmt": "",
+            "bfont": "",
+            "bqfmt": "",
+            "bsize": 0,
+            "did": null,
+            "name": "a * b = c",
+            "ord": 0,
+            "qfmt": "<small card=\"deck\">{{Deck}}</small><br/><br/>\n\n{{a}} · {{b}}\n\n{{type:c}}"
+        },
+        {
+            "afmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{c}} : {{a}}\n\n<hr id=answer>\n\n{{type:b}}",
+            "bafmt": "",
+            "bfont": "",
+            "bqfmt": "",
+            "bsize": 0,
+            "did": null,
+            "name": "c : a = b",
+            "ord": 1,
+            "qfmt": "<small card=\"deck\">{{Deck}}</small><br/><br/>\n\n{{c}} : {{a}}\n\n{{type:b}}"
+        },
+        {
+            "afmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{c}} : {{b}}\n\n<hr id=answer>\n\n{{type:a}}",
+            "bafmt": "",
+            "bfont": "",
+            "bqfmt": "",
+            "bsize": 0,
+            "did": null,
+            "name": "c : b = a",
+            "ord": 2,
+            "qfmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{c}} : {{b}}\n\n{{type:a}}"
+        },
+        {
+            "afmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{b}} · {{a}}\n\n<hr id=answer>\n\n{{type:c}}",
+            "bafmt": "",
+            "bfont": "",
+            "bqfmt": "",
+            "bsize": 0,
+            "did": null,
+            "name": "b * a = c",
+            "ord": 3,
+            "qfmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{b}} · {{a}}\n\n{{type:c}}"
+        }
+    ],
+    "type": 0,
+    "usn": 0
 }
