@@ -1151,7 +1151,7 @@
             "come",
             "прийти; той, хто прийшов",
             "/kʌm/[sound:come_British_English_pronunciation_68324.mp3]",
-            "come home — прийти додому"
+            "come - came - come"
         ],
         [
             "irregular",
@@ -3170,6 +3170,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -3183,6 +3184,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -3242,7 +3244,9 @@
             "/ˈiːvnɪŋ/[sound:evening_British_English_pronunciation_76171.mp3]",
             "good evening"
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1573244874069,
@@ -3439,7 +3443,9 @@
             "/ˈbjuːtəf<sup>ə</sup>l/[sound:beautiful_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1573670139229,
@@ -3449,7 +3455,9 @@
             "/ˈbjuːti/[sound:beauty_British_English_pronunciation_70639.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1573980846131,
@@ -4212,7 +4220,9 @@
             "/breɪv/[sound:brave_British_English_pronunciation_71928.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1575397002401,
@@ -4313,6 +4323,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -4390,7 +4401,9 @@
             "/skriːn/[sound:screen_British_English_pronunciation_96722.mp3]<div></div>",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1577125607620,
@@ -4818,7 +4831,9 @@
             "/əˈbaʊt/[sound:about_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1577947082918,
@@ -4861,7 +4876,9 @@
             "/dʒʌst/[sound:just_British_English_pronunciation_82558.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1577947503044,
@@ -5082,7 +5099,9 @@
             "/fɜː<sup>r</sup>st/[sound:first_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1578673620895,
@@ -5755,7 +5774,9 @@
             "/hæt/[sound:hat_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1582098749838,
@@ -6447,7 +6468,9 @@
             "<i></i>&nbsp;/tuː/[sound:too_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1584797485733,
@@ -7057,6 +7080,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -7069,6 +7093,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -9796,7 +9821,9 @@
             "<i></i>/ˈjuːnɪfɔː<sup>r</sup>m/[sound:uniform_British_English_pronunciation_103991.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1604949515422,
@@ -10124,7 +10151,9 @@
             "/feə<sup>r</sup>/[sound:fair_British_English_pronunciation_76688.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1605898797314,
@@ -11091,7 +11120,9 @@
             "/rəʊz/[sound:rose_British_English_pronunciation_95578.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1608992481238,
@@ -11872,7 +11903,9 @@
             "/tiːm/[sound:team_British_English_pronunciation_101546.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1610533444898,
@@ -14492,6 +14525,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -16727,7 +16761,7 @@
         1640725208868,
         [
             "proud",
-            "гордий",
+            "гордий, гордість",
             "/praʊd/[sound:proud__gb_1.mp3]",
             ""
         ],
@@ -16865,10 +16899,11 @@
         [
             "sink",
             "раковина, тонути",
-            "<div></div>/sɪŋk/[sound:sink__gb_2.mp3]",
-            ""
+            "/sɪŋk/[sound:sink__gb_2.mp3]",
+            "sink - sank - sunk"
         ],
         [
+            "irregular",
             "verb"
         ]
     ],
@@ -17002,5 +17037,89 @@
             ""
         ],
         []
+    ],
+    [
+        1641935300394,
+        [
+            "chess",
+            "шахи",
+            "/tʃes/[sound:chess__gb_3.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1641935339429,
+        [
+            "improve",
+            "покращити, вдосконалити",
+            "/ɪmˈpruːv/[sound:improve__gb_3.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1641992782934,
+        [
+            "hi",
+            "привіт (скор)",
+            "/haɪ/[sound:hi__gb_1.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
+    ],
+    [
+        1641992807125,
+        [
+            "baby",
+            "дитинка",
+            "/ˈbeɪbi/[sound:baby__gb_2.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
+    ],
+    [
+        1642016188844,
+        [
+            "sank",
+            "тонув",
+            "/sæŋk/[sound:sank__gb_1.mp3]",
+            "sink - sank - sunk"
+        ],
+        [
+            "irregular",
+            "verb"
+        ]
+    ],
+    [
+        1642016223620,
+        [
+            "sunk",
+            "потонулий",
+            "/sʌŋk/[sound:sunk__gb_1.mp3]",
+            "sink - sank - sunk"
+        ],
+        [
+            "irregular",
+            "verb"
+        ]
+    ],
+    [
+        1642103275398,
+        [
+            "bat",
+            "кажан, бита",
+            "/bæt/[sound:bat__gb_4.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
     ]
 ]

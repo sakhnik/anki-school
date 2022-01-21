@@ -1,0 +1,94 @@
+{
+    "css": ".card {\n font-family: DejaVu Sans;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+    "did": 1,
+    "flds": [
+        {
+            "font": "Arimo",
+            "media": [],
+            "name": "Front",
+            "ord": 0,
+            "rtl": false,
+            "size": 20,
+            "sticky": false
+        },
+        {
+            "font": "Arimo",
+            "media": [],
+            "name": "Back",
+            "ord": 1,
+            "rtl": false,
+            "size": 20,
+            "sticky": false
+        },
+        {
+            "font": "DejaVu Sans",
+            "media": [],
+            "name": "Transcription",
+            "ord": 2,
+            "rtl": false,
+            "size": 20,
+            "sticky": false
+        },
+        {
+            "font": "Arimo",
+            "media": [],
+            "name": "Example",
+            "ord": 3,
+            "rtl": false,
+            "size": 20,
+            "sticky": false
+        }
+    ],
+    "id": 1641992649835,
+    "latexPost": "\\end{document}",
+    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+    "latexsvg": false,
+    "mod": 1641992649,
+    "name": "English Daryna",
+    "req": [
+        [
+            0,
+            "any",
+            [
+                0,
+                2
+            ]
+        ],
+        [
+            1,
+            "any",
+            [
+                1
+            ]
+        ]
+    ],
+    "sortf": 0,
+    "tags": [],
+    "tmpls": [
+        {
+            "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}<br/>\n\n{{Example}}",
+            "bafmt": "",
+            "bfont": "",
+            "bqfmt": "",
+            "bsize": 0,
+            "did": null,
+            "name": "En -> Ukr",
+            "ord": 0,
+            "qfmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{Front}}<br/>\n{{Transcription}}<br/>\n<a href=\"https://duckduckgo.com/?q={{Front}}&t=ffhp&atb=v153-1&iax=images&ia=images\">Картинки</a>\n"
+        },
+        {
+            "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}<br/>\n{{Transcription}}<br/>\n{{Example}}<br/>\n<a href=\"https://duckduckgo.com/?q={{Front}}&t=ffhp&atb=v153-1&iax=images&ia=images\">Картинки</a>\n",
+            "bafmt": "",
+            "bfont": "",
+            "bqfmt": "",
+            "bsize": 0,
+            "did": null,
+            "name": "Ukr -> Eng",
+            "ord": 1,
+            "qfmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{Back}}"
+        }
+    ],
+    "type": 0,
+    "usn": 4513,
+    "vers": []
+}

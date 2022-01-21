@@ -174,6 +174,7 @@
             "eat apples and banans — їж яблука й банани"
         ],
         [
+            "daryna",
             "verb"
         ]
     ],
@@ -659,7 +660,9 @@
             "/jes/[sound:yes_British_English_pronunciation_106532.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1606235910774,
@@ -693,7 +696,9 @@
             "/bɔɪ/[sound:boy_British_English_pronunciation_71840.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1606235910777,
@@ -703,7 +708,9 @@
             "/ɡɜː<sup>r</sup>l/[sound:girl_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1606235910778,
@@ -800,7 +807,9 @@
             "/həˈləʊ/[sound:hello_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1606235910787,
@@ -810,7 +819,9 @@
             "/baɪ/[sound:bye_British_English_pronunciation_72584.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1606235910788,
@@ -1104,7 +1115,9 @@
             "/ˈspaɪdə<sup>r</sup>/[sound:spider_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1606235910817,
@@ -1178,7 +1191,9 @@
             "/nəʊ/[sound:no_British_English_pronunciation_88735.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1606235910824,
@@ -1208,7 +1223,9 @@
             "/mʌm/[sound:mum_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1606235910827,
@@ -1218,7 +1235,9 @@
             "/dæd/[sound:dad_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1606235910828,
@@ -1258,7 +1277,9 @@
             "/ʃɑː<sup>r</sup>k/[sound:shark_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1606235910832,
@@ -2586,6 +2607,7 @@
             "fly - flew - flown"
         ],
         [
+            "daryna",
             "irregular",
             "verb"
         ]
@@ -2971,7 +2993,9 @@
             "/məˈskiːtəʊ/[sound:mosquito__gb_1.mp3] /mɒˈskiːtəʊ/",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1630263908248,
@@ -3630,7 +3654,9 @@
             "/ðəʊz/[sound:those_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "leech"
+        ]
     ],
     [
         1635053115646,
@@ -4910,6 +4936,254 @@
             "silly",
             "дурний",
             "/ˈsɪli/[sound:silly_British_English_pronunciation_98005.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1641313668836,
+        [
+            "evening",
+            "вечір",
+            "/ˈiːvnɪŋ/[sound:evening_British_English_pronunciation_76171.mp3]",
+            "good evening"
+        ],
+        []
+    ],
+    [
+        1641313675343,
+        [
+            "end",
+            "кінець, закінчуватися",
+            "/end/[sound:end_British_English_pronunciation.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1641313679020,
+        [
+            "begin",
+            "починатися",
+            "/bɪˈɡɪn/[sound:begin_British_English_pronunciation_72659.mp3]",
+            "begin - began - begun"
+        ],
+        [
+            "irregular",
+            "verb"
+        ]
+    ],
+    [
+        1641745979429,
+        [
+            "belong",
+            "належати",
+            "<div></div>/bɪˈlɒŋ/[sound:belong__gb_2.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1641992842370,
+        [
+            "hi",
+            "привіт (скор)",
+            "/haɪ/[sound:hi__gb_1.mp3]",
+            ""
+        ],
+        [
+            "daryna"
+        ]
+    ],
+    [
+        1641992845787,
+        [
+            "baby",
+            "дитинка",
+            "/ˈbeɪbi/[sound:baby__gb_2.mp3]",
+            ""
+        ],
+        [
+            "daryna"
+        ]
+    ],
+    [
+        1642016095494,
+        [
+            "too",
+            "теж",
+            "<i></i>&nbsp;/tuː/[sound:too_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1642016532745,
+        [
+            "beautiful",
+            "красивий",
+            "/ˈbjuːtəf<sup>ə</sup>l/[sound:beautiful_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1642016561745,
+        [
+            "beauty",
+            "краса",
+            "/ˈbjuːti/[sound:beauty_British_English_pronunciation_70639.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1642016696337,
+        [
+            "team",
+            "команда",
+            "/tiːm/[sound:team_British_English_pronunciation_101546.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1642016747590,
+        [
+            "first",
+            "перший",
+            "/fɜː<sup>r</sup>st/[sound:first_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1642016754102,
+        [
+            "stop",
+            "зупинятися, зупинка",
+            "/stɒp/[sound:stop_British_English_pronunciation_100127.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1642016803289,
+        [
+            "fair",
+            "чесний, справедливий; ярмарка",
+            "/feə<sup>r</sup>/[sound:fair_British_English_pronunciation_76688.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1642016815785,
+        [
+            "just",
+            "просто",
+            "/dʒʌst/[sound:just_British_English_pronunciation_82558.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1642017205340,
+        [
+            "imagine",
+            "уявляти",
+            "/ɪˈmædʒɪn/[sound:imagine_British_English_pronunciation.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1642017226217,
+        [
+            "screen",
+            "екран",
+            "/skriːn/[sound:screen_British_English_pronunciation_96722.mp3]<div></div>",
+            ""
+        ],
+        []
+    ],
+    [
+        1642017371430,
+        [
+            "catch",
+            "спіймати",
+            "/kætʃ/[sound:catch_British_English_pronunciation_66879.mp3]",
+            "catch - caught - caught"
+        ],
+        [
+            "irregular",
+            "verb"
+        ]
+    ],
+    [
+        1642017410654,
+        [
+            "uniform",
+            "уніформа, однострій",
+            "<i></i>/ˈjuːnɪfɔː<sup>r</sup>m/[sound:uniform_British_English_pronunciation_103991.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1642017547146,
+        [
+            "hat",
+            "капелюх",
+            "/hæt/[sound:hat_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1642103322608,
+        [
+            "bat",
+            "кажан, бита",
+            "/bæt/[sound:bat__gb_4.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1642509047480,
+        [
+            "rose",
+            "троянда",
+            "/rəʊz/[sound:rose_British_English_pronunciation_95578.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1642534994494,
+        [
+            "brave",
+            "відважний, сміливий",
+            "/breɪv/[sound:brave_British_English_pronunciation_71928.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1642534999447,
+        [
+            "about",
+            "про",
+            "/əˈbaʊt/[sound:about_British_English_pronunciation.mp3]",
             ""
         ],
         []
