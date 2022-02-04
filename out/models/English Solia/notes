@@ -64,7 +64,9 @@
             "/ˈlɪtl/[sound:little_British_English_pronunciation_85370.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1570083453843,
@@ -415,11 +417,13 @@
         1606235910750,
         [
             "I",
-            "Я",
+            "я",
             "/aɪ/[sound:i_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1606235910751,
@@ -466,6 +470,7 @@
             "go - went - gone"
         ],
         [
+            "daryna",
             "irregular",
             "verb"
         ]
@@ -488,7 +493,9 @@
             "/juː/[sound:you_British_English_pronunciation.mp3] /jə/ /jʊ/",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1606235910757,
@@ -673,6 +680,7 @@
             "like you — як ти"
         ],
         [
+            "daryna",
             "verb"
         ]
     ],
@@ -730,7 +738,7 @@
             "come",
             "прийти; той, хто прийшов",
             "/kʌm/[sound:come_British_English_pronunciation_68324.mp3]",
-            "come home — прийти додому"
+            "come - came - come"
         ],
         [
             "irregular",
@@ -776,6 +784,7 @@
             ""
         ],
         [
+            "daryna",
             "verb"
         ]
     ],
@@ -2297,6 +2306,7 @@
             ""
         ],
         [
+            "daryna",
             "verb"
         ]
     ],
@@ -4036,7 +4046,9 @@
             "/əˈweɪ/[sound:away_British_English_pronunciation_66316.mp3]",
             "rain, rain, go away"
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1636010517344,
@@ -4316,11 +4328,12 @@
         1637220136773,
         [
             "let",
-            "дозволяти, хай",
+            "дозволяти, хай; (дозволив, дозволений)",
             "/let/[sound:let_British_English_pronunciation_85000.mp3]",
-            ""
+            "let - let - let"
         ],
         [
+            "irregular",
             "verb"
         ]
     ],
@@ -5184,6 +5197,297 @@
             "about",
             "про",
             "/əˈbaʊt/[sound:about_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643117345214,
+        [
+            "hide",
+            "ховати",
+            "/haɪd/[sound:hide_British_English_pronunciation_81372.mp3]",
+            "hide - hid - hidden"
+        ],
+        [
+            "irregular",
+            "verb"
+        ]
+    ],
+    [
+        1643117485162,
+        [
+            "pet",
+            "домашня тварина",
+            "/pet/[sound:pet__gb_4.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643122941764,
+        [
+            "under",
+            "під",
+            "/ˈʌndə<sup>r</sup>/[sound:under_British_English_pronunciation_103709.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643123645740,
+        [
+            "sad",
+            "сумний",
+            "/sæd/[sound:sad_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643123729446,
+        [
+            "touch",
+            "торкатися, дотик",
+            "/tʌtʃ/[sound:touch_British_English_pronunciation_102636.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1643123756120,
+        [
+            "clever",
+            "кмітливий",
+            "/ˈklevə<sup>r</sup>/[sound:clever_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643123854884,
+        [
+            "amazing",
+            "дивовижний",
+            "/əˈmeɪzɪŋ/[sound:amazing__gb_1.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643123884318,
+        [
+            "idea",
+            "ідея, уявлення",
+            "/aɪˈdɪə/[sound:idea_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643305024014,
+        [
+            "flag",
+            "прапор",
+            " &nbsp;/flæɡ/[sound:flag_British_English_pronunciation_77484.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643705067713,
+        [
+            "square",
+            "квадрат, квадратний, площа",
+            "/skweə<sup>r</sup>/[sound:square_British_English_pronunciation_99555.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643705067727,
+        [
+            "knowledge",
+            "знання",
+            "/ˈnɒlɪdʒ/[sound:knowledge_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643705070695,
+        [
+            "circle",
+            "коло",
+            "/ˈsɜː<sup>r</sup>k<sup>ə</sup>l/[sound:circle_British_English_pronunciation_67644.mp3]",
+            "In the circle of life"
+        ],
+        []
+    ],
+    [
+        1643705124414,
+        [
+            "test",
+            "випробовувати",
+            "/test/[sound:test_British_English_pronunciation_101822.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1643705140684,
+        [
+            "quick",
+            "швидкий (про подію)",
+            "/kwɪk/[sound:quick_British_English_pronunciation_95982.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643705147488,
+        [
+            "slow",
+            "повільний",
+            "/sləʊ/[sound:slow_British_English_pronunciation_98472.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643705215151,
+        [
+            "monkey",
+            "мавпа",
+            "/ˈmʌŋki/[sound:monkey_British_English_pronunciation_87486.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643705240289,
+        [
+            "clean",
+            "чистити, чистий",
+            "/kliːn/[sound:clean_British_English_pronunciation_67813.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1643705240314,
+        [
+            "dirty",
+            "брудний",
+            "/ˈdɜː<sup>r</sup>ti/[sound:dirty_British_English_pronunciation_73886.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643901754660,
+        [
+            "for",
+            "для",
+            "strong&nbsp;/fɔː<sup>r</sup>/[sound:for_British_English_pronunciation.mp3]&nbsp;weak&nbsp;/fə<sup>r</sup>/",
+            ""
+        ],
+        []
+    ],
+    [
+        1643985915229,
+        [
+            "meat",
+            "м'ясо",
+            "/miːt/[sound:meat_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643985925994,
+        [
+            "nut",
+            "горіх",
+            "/nʌt/[sound:nut_British_English_pronunciation_89061.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643985974001,
+        [
+            "sausage",
+            "ковбаса",
+            "/ˈsɒsɪdʒ/[sound:sausage_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643985974029,
+        [
+            "chick",
+            "курча",
+            "/tʃɪk/[sound:chick_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643985974042,
+        [
+            "pea",
+            "горошина",
+            "/piː/[sound:pea_British_English_pronunciation.mp3]<div></div>",
+            "peas"
+        ],
+        []
+    ],
+    [
+        1643985974054,
+        [
+            "lunch",
+            "обід",
+            "/lʌntʃ/[sound:lunch_British_English_pronunciation_85774.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643986043222,
+        [
+            "from",
+            "із (напрямок)",
+            "strong&nbsp;/frɒm/[sound:from_British_English_pronunciation.mp3]&nbsp;weak&nbsp;/frəm/",
+            ""
+        ],
+        []
+    ],
+    [
+        1643986065040,
+        [
+            "use",
+            "використовувати",
+            "/juːz/[sound:use_British_English_pronunciation_104449.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1643986134016,
+        [
+            "cabbage",
+            "капуста",
+            "<div></div>/ˈkæbɪdʒ/[sound:cabbage__gb_2.mp3]",
             ""
         ],
         []

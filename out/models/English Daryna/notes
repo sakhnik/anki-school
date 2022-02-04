@@ -153,5 +153,94 @@
         [
             "verb"
         ]
+    ],
+    [
+        1643623272497,
+        [
+            "rain",
+            "дощ",
+            "/reɪn/[sound:rain_British_English_pronunciation_93903.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1643623288283,
+        [
+            "go",
+            "іти",
+            "/ɡəʊ/[sound:go_British_English_pronunciation_79450.mp3]",
+            "go - went - gone"
+        ],
+        [
+            "irregular",
+            "verb"
+        ]
+    ],
+    [
+        1643623305298,
+        [
+            "little",
+            "маленький",
+            "/ˈlɪtl/[sound:little_British_English_pronunciation_85370.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643901799128,
+        [
+            "I",
+            "я",
+            "/aɪ/[sound:i_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1643901807085,
+        [
+            "you",
+            "ти",
+            "/juː/[sound:you_British_English_pronunciation.mp3] /jə/ /jʊ/",
+            ""
+        ],
+        []
+    ],
+    [
+        1643901812113,
+        [
+            "like",
+            "любити, бути схожим",
+            "/laɪk/[sound:like_British_English_pronunciation_85192.mp3]",
+            "like you — як ти"
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1643901829422,
+        [
+            "away",
+            "геть, у напрямку від нас",
+            "/əˈweɪ/[sound:away_British_English_pronunciation_66316.mp3]",
+            "rain, rain, go away"
+        ],
+        []
+    ],
+    [
+        1643992463802,
+        [
+            "wash",
+            "мити",
+            "/wɒʃ/[sound:wash_British_English_pronunciation_105281.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
     ]
 ]
