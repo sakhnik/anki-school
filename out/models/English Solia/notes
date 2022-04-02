@@ -88,7 +88,9 @@
             "/ˈwɔːtə<sup>r</sup>/[sound:water_British_English_pronunciation_105338.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1570514238045,
@@ -434,6 +436,7 @@
             ""
         ],
         [
+            "daryna",
             "verb"
         ]
     ],
@@ -616,6 +619,7 @@
             ""
         ],
         [
+            "daryna",
             "verb"
         ]
     ],
@@ -647,7 +651,9 @@
             "[sound:finger_British_English_pronunciation_77291.mp3]/ˈfɪŋɡə<sup>r</sup>/",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1606235910772,
@@ -657,7 +663,9 @@
             "/hænd/[sound:hand_British_English_pronunciation_80751.mp3]",
             "Close your eyes, give me your hand, darling."
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1606235910773,
@@ -741,6 +749,7 @@
             "come - came - come"
         ],
         [
+            "daryna",
             "irregular",
             "verb"
         ]
@@ -1000,7 +1009,9 @@
             "/dɒɡ/[sound:dog_British_English_pronunciation_74410.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1606235910805,
@@ -1102,7 +1113,9 @@
             "/kæt/[sound:cat_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1606235910815,
@@ -2086,7 +2099,9 @@
             "/dʒəˈrɑːf/[sound:giraffe_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1614355639516,
@@ -2136,7 +2151,9 @@
             "/mɪlk/[sound:milk_British_English_pronunciation_87028.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1615493356623,
@@ -2554,7 +2571,9 @@
             "/eɡ/[sound:egg_British_English_pronunciation_75399.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1621669614393,
@@ -2683,6 +2702,7 @@
             "little baby wants to play"
         ],
         [
+            "daryna",
             "verb"
         ]
     ],
@@ -2876,7 +2896,9 @@
             "/miː/[sound:me_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1625211815939,
@@ -3267,7 +3289,9 @@
             "/deɪ/[sound:day_British_English_pronunciation.mp3]",
             "What day is it now? — Який зараз день?"
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1633236528657,
@@ -3363,7 +3387,9 @@
             "/ˈzebrə/[sound:zebra_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1633451415674,
@@ -4333,6 +4359,7 @@
             "let - let - let"
         ],
         [
+            "daryna",
             "irregular",
             "verb"
         ]
@@ -5366,7 +5393,9 @@
             "/ˈmʌŋki/[sound:monkey_British_English_pronunciation_87486.mp3]",
             ""
         ],
-        []
+        [
+            "daryna"
+        ]
     ],
     [
         1643705240289,
@@ -5488,6 +5517,706 @@
             "cabbage",
             "капуста",
             "<div></div>/ˈkæbɪdʒ/[sound:cabbage__gb_2.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1644580841856,
+        [
+            "ring",
+            "дзвеніти, перстень",
+            "<i></i>/rɪŋ/[sound:ring_British_English_pronunciation_95332.mp3]",
+            "ring - rang - rung"
+        ],
+        [
+            "irregular",
+            "verb"
+        ]
+    ],
+    [
+        1644935557374,
+        [
+            "beach",
+            "пляж",
+            "/biːtʃ/[sound:beach_British_English_pronunciation_70578.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1644935565977,
+        [
+            "thing",
+            "річ",
+            "/θɪŋ/[sound:thing_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1645007978647,
+        [
+            "fun",
+            "потіха, розвага, потішний, веселий",
+            "/fʌn/[sound:fun_British_English_pronunciation_78598.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1645007983859,
+        [
+            "sure",
+            "певний",
+            "<div>/ʃɔː<sup>r</sup>/[sound:sure_British_English_pronunciation_100878.mp3]&nbsp;/ʃʊə<sup>r</sup>/[sound:sure_British_English_pronunciation_58503.mp3]</div>",
+            ""
+        ],
+        []
+    ],
+    [
+        1645007996545,
+        [
+            "any",
+            "будь-який",
+            "/ˈeni/[sound:any_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1645008098765,
+        [
+            "shadow",
+            "тінь",
+            "/ˈʃædəʊ/[sound:shadow__gb_1.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1645011687430,
+        [
+            "queue",
+            "черга",
+            "/kjuː/[sound:queue__gb_1.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1645011714198,
+        [
+            "yum",
+            "ням",
+            "/jʌm/[sound:yum_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1645012006875,
+        [
+            "time",
+            "час, раз",
+            "/taɪm/[sound:time_British_English_pronunciation_102260.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1645012288666,
+        [
+            "check",
+            "перевіряти, перевірка",
+            "/tʃek/[sound:check_British_English_pronunciation_67293.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1645012473103,
+        [
+            "terrible",
+            "жахливий, страшний",
+            "/ˈterəb(ə)l/[sound:terrible_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1645093051702,
+        [
+            "present (verb)",
+            "дарувати",
+            "/prɪˈzent/[sound:present_British_English_pronunciation.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1645093053246,
+        [
+            "present",
+            "подарунок, теперішній час",
+            "/ˈprez<sup>ə</sup>nt/[sound:present_British_English_pronunciation_92844.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1645093058299,
+        [
+            "whose",
+            "чий",
+            "/huːz/[sound:whose_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1645285370145,
+        [
+            "radio",
+            "радіо",
+            "<div></div>/ˈreɪdiəʊ/[sound:radio__gb_2.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1645524237855,
+        [
+            "was",
+            "був, була, було",
+            "/wɒz/[sound:was_British_English_pronunciation.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1645620359174,
+        [
+            "piano",
+            "піаніно",
+            "/piˈænəʊ/[sound:piano__gb_3.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1647066046131,
+        [
+            "cut",
+            "різати, різав, порізаний",
+            "/kʌt/[sound:cut_British_English_pronunciation_70009.mp3]",
+            "cut - cut - cur"
+        ],
+        [
+            "irregular",
+            "verb"
+        ]
+    ],
+    [
+        1647066046136,
+        [
+            "ready",
+            "готовий",
+            "/ˈredi/[sound:ready_British_English_pronunciation_94132.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1647066046141,
+        [
+            "glad",
+            "радий",
+            "/ɡlæd/[sound:glad_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1647066046146,
+        [
+            "people",
+            "люди, народ, особи",
+            "/ˈpiːp<sup>ə</sup>l/[sound:people_British_English_pronunciation_91113.mp3]",
+            "person - people"
+        ],
+        []
+    ],
+    [
+        1647066046151,
+        [
+            "get",
+            "дістати",
+            "/ɡet/[sound:get_British_English_pronunciation_79189.mp3]",
+            "get - got - got"
+        ],
+        [
+            "irregular",
+            "verb"
+        ]
+    ],
+    [
+        1647066046155,
+        [
+            "which",
+            "котрий",
+            "/wɪtʃ/[sound:which_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1647066046160,
+        [
+            "fight",
+            "битися",
+            "/faɪt/[sound:fight_British_English_pronunciation_77195.mp3]",
+            "fight - fought - fought"
+        ],
+        [
+            "irregular",
+            "verb"
+        ]
+    ],
+    [
+        1647323227865,
+        [
+            "cucumber",
+            "огірок",
+            "/ˈkjuːkʌmbə(r)/[sound:cucumber__gb_2.mp3]",
+            ""
+        ],
+        [
+            "daryna"
+        ]
+    ],
+    [
+        1647323295777,
+        [
+            "spoon",
+            "ложка",
+            "/spuːn/[sound:spoon__gb_2.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1647323300476,
+        [
+            "fork",
+            "виделка",
+            "/fɔːk/[sound:fork__gb_2.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1647323861512,
+        [
+            "soup",
+            "суп",
+            "/suːp/[sound:soup__gb_2.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1647323876967,
+        [
+            "oats",
+            "вівсянка, зерно овесу",
+            "<div></div>/əʊts/[sound:oats__gb_1.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1647323878443,
+        [
+            "knife",
+            "ніж (предмет)",
+            "/naɪf/[sound:knife__gb_2.mp3]",
+            "knife - knives"
+        ],
+        []
+    ],
+    [
+        1647323880512,
+        [
+            "buckwheat",
+            "гречка",
+            "<div></div>/ˈbʌkwiːt/[sound:buckwheat__gb_3.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1647323884803,
+        [
+            "plate",
+            "тарілка",
+            "/pleɪt/[sound:plate__gb_2.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1647323888891,
+        [
+            "wheat",
+            "пшениця",
+            "<div></div>/wiːt/[sound:wheat__gb_1.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1647323891654,
+        [
+            "oat",
+            "овес",
+            "/əʊt/[sound:oat__gb_1.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1647323907460,
+        [
+            "bread",
+            "хліб",
+            "/bred/[sound:bread_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1647323918073,
+        [
+            "knives",
+            "ножі",
+            "/naɪvz/[sound:knives__gb_3.mp3]",
+            "knife - knives"
+        ],
+        [
+            "plural"
+        ]
+    ],
+    [
+        1647323929399,
+        [
+            "porridge",
+            "каша",
+            "/ˈpɒrɪdʒ/[sound:porridge__gb_1.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1647323934486,
+        [
+            "butter",
+            "масло",
+            "/ˈbʌtə<sup>r</sup>/[sound:butter_British_English_pronunciation_72541.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1647452825861,
+        [
+            "ticket",
+            "квиток",
+            "/ˈtɪkɪt/[sound:ticket__gb_1.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1647452832561,
+        [
+            "subway",
+            "підземний перехід, метро (ам.)",
+            "/ˈsʌbˌweɪ/[sound:subway_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1647452839566,
+        [
+            "face",
+            "обличчя, бути лицем до",
+            "/feɪs/[sound:face_British_English_pronunciation_76610.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1647452843838,
+        [
+            "mask",
+            "маска",
+            "/mɑːsk/[sound:mask__gb_1.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1647452851312,
+        [
+            "direction",
+            "напрямок",
+            "/dəˈrekʃn/[sound:direction__gb_5.mp3]&nbsp; /daɪˈrekʃn/",
+            ""
+        ],
+        []
+    ],
+    [
+        1647452857852,
+        [
+            "buy",
+            "купувати",
+            "/baɪ/[sound:buy_British_English_pronunciation_72567.mp3]",
+            "buy - bought - bought"
+        ],
+        [
+            "irregular",
+            "verb"
+        ]
+    ],
+    [
+        1647452863962,
+        [
+            "solve",
+            "розв'язувати (задачу), розчиняти",
+            "/sɒlv/[sound:solve__gb_2.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1647535088725,
+        [
+            "slave",
+            "раб",
+            "/sleɪv/[sound:slave__gb_1.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1647764806771,
+        [
+            "juice",
+            "сік",
+            "/dʒuːs/[sound:juice_British_English_pronunciation_82493.mp3]",
+            ""
+        ],
+        [
+            "daryna"
+        ]
+    ],
+    [
+        1647764939903,
+        [
+            "flake",
+            "пушинка, пластівець",
+            "<div></div>/fleɪk/[sound:flake__gb_1.mp3]",
+            ""
+        ],
+        [
+            "daryna"
+        ]
+    ],
+    [
+        1648497703829,
+        [
+            "inside",
+            "всередині",
+            "/ˈɪnˌsaɪd/[sound:inside_British_English_pronunciation_83583.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1648497708829,
+        [
+            "outside",
+            "зовні",
+            "/ˌaʊtˈsaɪd/[sound:outside_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1648497720900,
+        [
+            "top",
+            "дзиґа, верх",
+            "/tɒp/[sound:top_British_English_pronunciation_102546.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1648497727959,
+        [
+            "bottom",
+            "низ, дно",
+            "/ˈbɒtəm/[sound:bottom_British_English_pronunciation_71749.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1648497738947,
+        [
+            "front",
+            "пере́д",
+            "/frʌnt/[sound:front_British_English_pronunciation_78457.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1648497758292,
+        [
+            "slide",
+            "сповзати, дитяча гірка",
+            "<div></div>/slaɪd/[sound:slide__gb_2.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1648580346117,
+        [
+            "racoon",
+            "єнот",
+            "/rəˈkuːn/[sound:racoon__gb_1.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1648580346132,
+        [
+            "pear",
+            "груша",
+            "<div></div>/peə(r)/[sound:pear__gb_2.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1648580346147,
+        [
+            "get in",
+            "влізати, входити, залазити",
+            "",
+            ""
+        ],
+        [
+            "phrasal",
+            "verb"
+        ]
+    ],
+    [
+        1648580346160,
+        [
+            "get off",
+            "зійти, злізти, сходити",
+            "",
+            ""
+        ],
+        [
+            "phrasal",
+            "verb"
+        ]
+    ],
+    [
+        1648580346174,
+        [
+            "come on",
+            "давай, наставати",
+            "",
+            ""
+        ],
+        [
+            "phrasal",
+            "verb"
+        ]
+    ],
+    [
+        1648580346185,
+        [
+            "come in",
+            "входити",
+            "",
+            ""
+        ],
+        [
+            "phrasal",
+            "verb"
+        ]
+    ],
+    [
+        1648580378237,
+        [
+            "take off",
+            "скинути щось (одяг)",
+            "",
+            ""
+        ],
+        [
+            "phrasal",
+            "verb"
+        ]
+    ],
+    [
+        1648893500118,
+        [
+            "today",
+            "сьогодні",
+            "<i></i>/təˈdeɪ/[sound:today_British_English_pronunciation.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1648893505335,
+        [
+            "yesterday",
+            "учора",
+            "/ˈjestə<sup>r</sup>deɪ/[sound:yesterday_British_English_pronunciation_106536.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1648893511717,
+        [
+            "tomorrow",
+            "завтра",
+            "/təˈmɒrəʊ/[sound:tomorrow_British_English_pronunciation_102494.mp3]",
             ""
         ],
         []
