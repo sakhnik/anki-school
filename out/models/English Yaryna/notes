@@ -2862,7 +2862,8 @@
             ""
         ],
         [
-            "leech"
+            "leech",
+            "solia"
         ]
     ],
     [
@@ -3280,7 +3281,9 @@
             "/huːm/[sound:whom_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1573282068398,
@@ -3303,7 +3306,8 @@
             "cheating is wrong"
         ],
         [
-            "leech"
+            "leech",
+            "solia"
         ]
     ],
     [
@@ -3404,7 +3408,9 @@
             "/ɔːlˈredi/[sound:already_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1573543813571,
@@ -3538,7 +3544,9 @@
             "/ˈmeni/[sound:many_British_English_pronunciation_86222.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1573981100942,
@@ -3710,6 +3718,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -3721,7 +3730,9 @@
             "/ˈbɪzi/[sound:busy_British_English_pronunciation_72525.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1574409968158,
@@ -3731,7 +3742,9 @@
             "/ˈəʊnli/[sound:only_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1574410192870,
@@ -3768,7 +3781,9 @@
             "strong&nbsp;/bʌt/[sound:butte_British_English_pronunciation.mp3]&nbsp;weak&nbsp;/bət/",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1574542777609,
@@ -3805,6 +3820,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -3827,6 +3843,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -3947,7 +3964,9 @@
             "/ˈɑːftə<sup>r</sup>/[sound:after_British_English_pronunciation_64933.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1575059998949,
@@ -3969,7 +3988,9 @@
             "/bɪˈfɔː<sup>r</sup>/[sound:before_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1575060112339,
@@ -3981,6 +4002,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -3992,17 +4014,21 @@
             "/ˈstɔːri/[sound:story_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1575060399491,
         [
             "while",
-            "поки",
+            "по́ки",
             "/waɪl/[sound:while_British_English_pronunciation_105749.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1575105312391,
@@ -4038,6 +4064,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -4074,6 +4101,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -4109,7 +4137,9 @@
             "/θɪn/[sound:thin_British_English_pronunciation_101998.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1575106751762,
@@ -4119,7 +4149,9 @@
             "/θɪk/[sound:thick_British_English_pronunciation_101979.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1575197339306,
@@ -4215,7 +4247,9 @@
             "/ˈbɒdi/[sound:body_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1575396529638,
@@ -4238,6 +4272,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -4273,7 +4308,9 @@
             "/ɑː<sup>r</sup>t/[sound:art_British_English_pronunciation_65907.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1575397299407,
@@ -4285,6 +4322,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -4296,7 +4334,9 @@
             "/ˈnærəʊ/[sound:narrow_British_English_pronunciation_88331.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1575659733988,
@@ -4306,7 +4346,9 @@
             "/waɪd/[sound:wide_British_English_pronunciation_105905.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1575659756226,
@@ -4317,6 +4359,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -4340,7 +4383,9 @@
             "/ˈkʌntri/[sound:country_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1575965873445,
@@ -4352,6 +4397,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -4378,6 +4424,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -4389,7 +4436,9 @@
             "/tuːl/[sound:tool_British_English_pronunciation_102525.mp3]<div></div>",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1576607367760,
@@ -4399,7 +4448,9 @@
             "/eə<sup>r</sup>/[sound:air_British_English_pronunciation_65036.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1576607449374,
@@ -4409,7 +4460,9 @@
             "/freʃ/[sound:fresh_British_English_pronunciation_78378.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1576607491314,
@@ -4419,7 +4472,9 @@
             "/ˈsɪti/[sound:city_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1576697424084,
@@ -4431,6 +4486,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -4454,7 +4510,9 @@
             "/ˈsʌnˌskriːn/[sound:sunscreen_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1577125643513,
@@ -4634,6 +4692,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -4645,7 +4704,9 @@
             "/ˈdʒækɪt/[sound:jacket_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1577433585147,
@@ -4695,7 +4756,9 @@
             "/fɑː<sup>r</sup>/[sound:far_British_English_pronunciation_76810.mp3]",
             "far - farther - farthest"
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1577436118296,
@@ -4706,7 +4769,8 @@
             ""
         ],
         [
-            "leech"
+            "leech",
+            "solia"
         ]
     ],
     [
@@ -4717,7 +4781,9 @@
             "/kɪd/[sound:kid_British_English_pronunciation_84240.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1577524107786,
@@ -4729,6 +4795,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -4828,7 +4895,9 @@
             "/wɔː<sup>r</sup>m/[sound:warm_British_English_pronunciation_105246.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1577612336668,
@@ -4876,6 +4945,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -4899,7 +4969,9 @@
             "/ˈnʌθɪŋ/[sound:nothing_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1577947188065,
@@ -4909,7 +4981,9 @@
             "/rɪəl/[sound:real_British_English_pronunciation_94141.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1577947310337,
@@ -4921,6 +4995,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -4944,7 +5019,9 @@
             "/dɑː<sup>r</sup>k/[sound:dark_British_English_pronunciation_72794.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1577947648752,
@@ -4956,6 +5033,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -4969,6 +5047,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -4995,6 +5074,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -5008,6 +5088,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -5022,6 +5103,7 @@
         [
             "irregular",
             "modal",
+            "solia",
             "verb"
         ]
     ],
@@ -5033,7 +5115,9 @@
             "/les/[sound:less_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1578215065625,
@@ -5057,6 +5141,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -5068,7 +5153,9 @@
             "/bed/[sound:bed_British_English_pronunciation_72655.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1578215410589,
@@ -5090,7 +5177,9 @@
             "/ˈeɪb<sup>ə</sup>l/[sound:able_British_English_pronunciation_64379.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1578431378848,
@@ -5100,7 +5189,9 @@
             "/ɪf/[sound:iff_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1578431421295,
@@ -5111,6 +5202,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -5125,6 +5217,7 @@
         [
             "irregular",
             "leech",
+            "solia",
             "verb"
         ]
     ],
@@ -5137,6 +5230,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -5148,7 +5242,9 @@
             "/weɪ/[sound:way_British_English_pronunciation_105415.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1578673535733,
@@ -5172,6 +5268,7 @@
         ],
         [
             "modal",
+            "solia",
             "verb"
         ]
     ],
@@ -5183,7 +5280,9 @@
             "/əˈɡen/[sound:again_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1578673855865,
@@ -5196,6 +5295,7 @@
         [
             "irregular",
             "modal",
+            "solia",
             "verb"
         ]
     ],
@@ -5208,6 +5308,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -5219,7 +5320,9 @@
             "/ˈbɒt<sup>ə</sup>l/[sound:bottle_British_English_pronunciation_71740.mp3]<div></div>",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1578765323843,
@@ -5278,6 +5381,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -5291,6 +5395,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -5302,7 +5407,9 @@
             "/ˈsekənd/[sound:second_British_English_pronunciation_96906.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1578818644743,
@@ -5337,7 +5444,9 @@
             "/θɜː<sup>r</sup>d/[sound:third_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1579032990929,
@@ -5361,6 +5470,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -5372,7 +5482,9 @@
             "/ruːm/[sound:room_British_English_pronunciation_95554.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1579120268632,
@@ -5383,7 +5495,8 @@
             ""
         ],
         [
-            "leech"
+            "leech",
+            "solia"
         ]
     ],
     [
@@ -5480,6 +5593,7 @@
         ],
         [
             "leech",
+            "solia",
             "verb"
         ]
     ],
@@ -5513,7 +5627,9 @@
             "/leɡ/[sound:leg_British_English_pronunciation_84911.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1579679776227,
@@ -5536,7 +5652,9 @@
             "/ɡɪft/[sound:gift_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1579763293480,
@@ -5623,6 +5741,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -5634,7 +5753,9 @@
             "/bɜː<sup>r</sup>θ/[sound:birth_British_English_pronunciation.mp3]",
             "Think about birthday"
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1580379523126,
@@ -5645,6 +5766,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -5657,6 +5779,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -5680,6 +5803,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -5716,6 +5840,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -5747,7 +5872,9 @@
             "/leɪt/[sound:late_British_English_pronunciation_84681.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1581188418891,
@@ -5791,7 +5918,9 @@
             "/ˈsɪzə<sup>r</sup>z/[sound:scissors_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1581235603105,
@@ -5828,6 +5957,7 @@
         ],
         [
             "irregular",
+            "solia",
             "verb"
         ]
     ],
@@ -5888,7 +6018,9 @@
             "/ˈmʌndeɪ/[sound:Monday_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1582395580664,
@@ -5898,7 +6030,9 @@
             "<i></i>&nbsp;/ˈsætə<sup>r</sup>deɪ/[sound:Saturday_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1582395701904,
@@ -5908,7 +6042,9 @@
             "/ˈsʌndeɪ/[sound:Sunday_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1582395772360,
@@ -5918,7 +6054,9 @@
             "/ˈfraɪdeɪ/[sound:Friday_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1582448604727,
@@ -5929,7 +6067,8 @@
             ""
         ],
         [
-            "leech"
+            "leech",
+            "solia"
         ]
     ],
     [
@@ -5940,7 +6079,9 @@
             "/ˈwenzdeɪ/[sound:Wednesday_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1582448732640,
@@ -5950,7 +6091,9 @@
             "/ˈθɜː<sup>r</sup>zdeɪ/[sound:Thursday_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1582716950847,
@@ -6004,7 +6147,9 @@
             "<i></i>&nbsp;/ˈkʌz<sup>ə</sup>n/[sound:cousin_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1582717216235,
@@ -6166,7 +6311,9 @@
             "/dres/[sound:dress_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1583491097313,
@@ -6297,7 +6444,9 @@
             "/plʌm/[sound:plum_British_English_pronunciation_92047.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1583779613375,
@@ -6307,7 +6456,9 @@
             "/drʌm/[sound:drum_British_English_pronunciation_74952.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1583992480432,
@@ -6403,7 +6554,9 @@
             "<i></i>&nbsp;/ˈklaʊdi/[sound:cloudy_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1584430726994,
@@ -6413,7 +6566,9 @@
             "/ˈweðə<sup>r</sup>/[sound:weather_British_English_pronunciation_105461.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1584430772513,
@@ -6445,7 +6600,9 @@
             "/dʒiːnz/[sound:jeans_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1584602081186,
@@ -6455,7 +6612,9 @@
             "<i></i>&nbsp;/ˈswetə<sup>r</sup>/[sound:sweater_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1584602123475,
@@ -6466,6 +6625,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -6477,7 +6637,9 @@
             "<i></i>/kæp/[sound:cap_British_English_pronunciation_66603.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1584602261990,
@@ -6487,7 +6649,9 @@
             "/skɜː<sup>r</sup>t/[sound:skirt_British_English_pronunciation_98261.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1584602302067,
@@ -6509,7 +6673,9 @@
             "/sɒk/[sound:sock_British_English_pronunciation_98807.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1584602371043,
@@ -6519,7 +6685,9 @@
             "/ˈtraʊzə<sup>r</sup>z/[sound:trousers_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1584603283692,
@@ -6563,7 +6731,9 @@
             "/kləʊðz/[sound:clothes_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1584883767994,
@@ -7037,7 +7207,9 @@
             "/ˈpʌpi/[sound:puppy_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1586713220864,
@@ -7057,7 +7229,9 @@
             "/tʃɪn/[sound:chin_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1586713339093,
@@ -7094,7 +7268,9 @@
             "/ˈlɒri/[sound:lorry_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1586713535892,
@@ -7134,7 +7310,9 @@
             "<i></i>/lʌk/[sound:luck_British_English_pronunciation_85726.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1586857088800,
@@ -7144,7 +7322,9 @@
             "/ˈlʌki/[sound:lucky_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1586867850849,
@@ -7799,7 +7979,9 @@
             "/pɪn/[sound:pin_British_English_pronunciation_91674.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1589966825551,
@@ -9141,7 +9323,9 @@
             "/juːˈkreɪn/[sound:Ukraine_British_English_pronunciation_106945070.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1602998476506,
@@ -9162,7 +9346,8 @@
             ""
         ],
         [
-            "leech"
+            "leech",
+            "solia"
         ]
     ],
     [
@@ -9173,7 +9358,9 @@
             "<i></i>/ˈtʃaɪnə/[sound:china_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1602998657212,
@@ -9704,7 +9891,9 @@
             "/maɪn/[sound:mine_British_English_pronunciation_87107.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1604321166059,
@@ -9714,7 +9903,9 @@
             "/jɔː<sup>r</sup>z/[sound:yours_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1604321218249,
@@ -9724,7 +9915,9 @@
             "/aʊə<sup>r</sup>z/[sound:ours_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1604321308663,
@@ -9734,7 +9927,9 @@
             "/hɜː<sup>r</sup>z/[sound:hers_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1604321360492,
@@ -9744,7 +9939,9 @@
             "/ðeə<sup>r</sup>z/[sound:theirs_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1604322177563,
@@ -10728,7 +10925,9 @@
             "<i></i>/wiːk/[sound:week_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1607597161391,
@@ -11181,7 +11380,9 @@
             "/biː/[sound:bee_British_English_pronunciation.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1608889082886,
@@ -11625,7 +11826,9 @@
             "<div>strong\n/æz/[sound:as_British_English_pronunciation.mp3]</div><div>weak\n/əz/</div>",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1609686555181,
@@ -12044,7 +12247,9 @@
             "/həʊl/[sound:hole_British_English_pronunciation_81605.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1610617093769,
@@ -13155,7 +13360,9 @@
             "/ʃel/[sound:shell_British_English_pronunciation_97538.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1615472364910,
@@ -13705,7 +13912,9 @@
             "/həʊst/[sound:host_British_English_pronunciation_81851.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1618544980199,
@@ -14008,6 +14217,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -14029,7 +14239,9 @@
             "/ˈhæmstə(r)/[sound:hamster__gb_1.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1619506377171,
@@ -14116,6 +14328,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -14608,6 +14821,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -15258,6 +15472,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -15269,7 +15484,9 @@
             "/ˈklɑːsmeɪt/[sound:classmate__gb_1.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1632124821094,
@@ -15620,7 +15837,9 @@
             "/brɪdʒ/[sound:bridge__gb_3.mp3]",
             ""
         ],
-        []
+        [
+            "solia"
+        ]
     ],
     [
         1634820022081,
@@ -15677,6 +15896,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -16007,6 +16227,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -16937,6 +17158,7 @@
             ""
         ],
         [
+            "solia",
             "verb"
         ]
     ],
@@ -18233,5 +18455,456 @@
             ""
         ],
         []
+    ],
+    [
+        1649329082224,
+        [
+            "theatre",
+            "театр",
+            "/ˈθɪətə(r)/[sound:theatre__gb_2.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1649672914113,
+        [
+            "pool",
+            "басейн",
+            "/puːl/[sound:pool__gb_3.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
+    ],
+    [
+        1649745971719,
+        [
+            "mud",
+            "грязюка",
+            "<div></div>/mʌd/[sound:mud__gb_2.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1650351919651,
+        [
+            "mug",
+            "кухоль",
+            "/mʌɡ/[sound:mug__gb_1.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
+    ],
+    [
+        1651515932914,
+        [
+            "confusion",
+            "спантеличення, збентеження, плутанина",
+            "/kənˈfjuːʒn/[sound:xconfusion__gb_1.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1651515981014,
+        [
+            "revision",
+            "перегляд, переробка, ревізія",
+            "/rɪˈvɪʒn/[sound:revision__gb_1.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1651516052354,
+        [
+            "confuse",
+            "заплутати, спантеличити",
+            "/kənˈfjuːz/[sound:xconfuse__gb_1.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1651516088176,
+        [
+            "revise",
+            "переглядати, перероблювати",
+            "/rɪˈvaɪz/[sound:revise__gb_2.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1651516112972,
+        [
+            "explosion",
+            "вибух",
+            "<div></div>/ɪkˈspləʊʒn/[sound:explosion__gb_1.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1651516136257,
+        [
+            "explode",
+            "вибухати",
+            "<div></div>/ɪkˈspləʊd/[sound:explode__gb_1.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1651516203612,
+        [
+            "division",
+            "ділення, поділ, ділянка, дивізія",
+            "/dɪˈvɪʒn/[sound:division__gb_1.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1651516235302,
+        [
+            "decision",
+            "рішення",
+            "/dɪˈsɪʒn/[sound:decision__gb_1.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1651516281753,
+        [
+            "erosion",
+            "ерозія, роз'їдання",
+            "/ɪˈrəʊʒn/[sound:erosion__gb_1.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1651516316353,
+        [
+            "erode",
+            "роз'їдати",
+            "/ɪˈrəʊd/[sound:erode__gb_1.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1651516351213,
+        [
+            "television",
+            "телебачення",
+            "/ˈtelɪvɪʒn/[sound:television__gb_1.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1651516424439,
+        [
+            "collision",
+            "зіткнення, суперечність, колізія",
+            "/kəˈlɪʒn/[sound:collision__gb_1.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1651516468945,
+        [
+            "collide",
+            "зіткнутися",
+            "<div></div>/kəˈlaɪd/[sound:collide__gb_1.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1651562617235,
+        [
+            "beehive",
+            "вулик",
+            "/ˈbiːhaɪv/[sound:beehive__gb_2.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
+    ],
+    [
+        1651562700665,
+        [
+            "shine",
+            "сяяти, блищати; сяйво",
+            "/ʃaɪn/[sound:shine__gb_1.mp3]",
+            "shine - shone - shone"
+        ],
+        [
+            "irregular",
+            "solia",
+            "verb"
+        ]
+    ],
+    [
+        1651562735331,
+        [
+            "sunshine",
+            "сонячне сяйво",
+            "/ˈsʌnʃaɪn/[sound:sunshine__gb_1.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
+    ],
+    [
+        1651562926981,
+        [
+            "playmate",
+            "товариш по грі",
+            "/ˈpleɪmeɪt/[sound:playmate__gb_1.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
+    ],
+    [
+        1651562968569,
+        [
+            "pancake",
+            "млинець",
+            "/ˈpænkeɪk/[sound:pancake__gb_1.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
+    ],
+    [
+        1651563082662,
+        [
+            "pan",
+            "сковорода",
+            "<div></div>/pæn/[sound:pan__gb_2.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
+    ],
+    [
+        1651563196664,
+        [
+            "law",
+            "закон",
+            "/lɔː/[sound:law__gb_2.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
+    ],
+    [
+        1651563224914,
+        [
+            "lawyer",
+            "юрист",
+            "/ˈlɔɪə(r)/[sound:lawyer__gb_5.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
+    ],
+    [
+        1652691604692,
+        [
+            "digger",
+            "копач",
+            "/ˈdɪɡə(r)/[sound:digger__gb_2.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
+    ],
+    [
+        1653801353799,
+        [
+            "snail",
+            "равлик, слимак",
+            "/sneɪl/[sound:snail__gb_1.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
+    ],
+    [
+        1653801781861,
+        [
+            "gnome",
+            "гном",
+            "/nəʊm/[sound:gnome__gb_3.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
+    ],
+    [
+        1653893742393,
+        [
+            "ladder",
+            "драбина",
+            "/ˈlædə(r)/[sound:ladder__gb_2.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
+    ],
+    [
+        1653999509689,
+        [
+            "equal",
+            "дорівнювати, рівний",
+            "/ˈiːkwəl/[sound:equal__gb_1.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1654588598797,
+        [
+            "shield",
+            "щит; захищати (щитом)",
+            "/ʃiːld/[sound:shield__gb_1.mp3]",
+            ""
+        ],
+        [
+            "verb"
+        ]
+    ],
+    [
+        1654588641750,
+        [
+            "spit",
+            "плювати",
+            "/spɪt/[sound:spit__gb_1.mp3]",
+            "spit - spat - spat"
+        ],
+        [
+            "irregular",
+            "verb"
+        ]
+    ],
+    [
+        1654588679363,
+        [
+            "spat",
+            "плював, пльований",
+            "/spæt/[sound:spat__gb_1.mp3]",
+            "spit - spat - spat"
+        ],
+        [
+            "irregular",
+            "verb"
+        ]
+    ],
+    [
+        1654588705527,
+        [
+            "sour",
+            "кислий",
+            "/ˈsaʊə(r)/[sound:sour__gb_1.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
+    ],
+    [
+        1654588737475,
+        [
+            "sour cream",
+            "сметана",
+            "<div></div>/ˌsaʊə ˈkriːm/[sound:sour_cream_1_gb_1.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
+    ],
+    [
+        1654956905979,
+        [
+            "battle",
+            "битва",
+            "/ˈbætl/[sound:battle__gb_2.mp3]",
+            ""
+        ],
+        []
+    ],
+    [
+        1655196067907,
+        [
+            "exercise",
+            "вправа, вправлятися",
+            "/ˈeksəsaɪz/[sound:exercise__gb_1.mp3]",
+            ""
+        ],
+        [
+            "solia",
+            "verb"
+        ]
+    ],
+    [
+        1655278480971,
+        [
+            "pillow",
+            "подушка",
+            "/ˈpɪləʊ/[sound:pillow__gb_2.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
+    ],
+    [
+        1655365083229,
+        [
+            "unicorn",
+            "одноріг",
+            "/ˈjuːnɪkɔːn/[sound:unicorn__gb_1.mp3]",
+            ""
+        ],
+        [
+            "solia"
+        ]
     ]
 ]

@@ -3,6 +3,7 @@
     "did": 1,
     "flds": [
         {
+            "description": "",
             "font": "Arimo",
             "media": [],
             "name": "Front",
@@ -12,6 +13,7 @@
             "sticky": false
         },
         {
+            "description": "",
             "font": "Arimo",
             "media": [],
             "name": "Back",
@@ -21,6 +23,7 @@
             "sticky": false
         },
         {
+            "description": "",
             "font": "DejaVu Sans",
             "media": [],
             "name": "Transcription",
@@ -30,6 +33,7 @@
             "sticky": false
         },
         {
+            "description": "",
             "font": "Arimo",
             "media": [],
             "name": "Example",
