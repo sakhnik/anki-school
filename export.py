@@ -13,6 +13,10 @@ import subprocess
 out_dir = Path(__file__).absolute().parent.joinpath('out')
 
 
+def include_model(name):
+    return any((n in name for n in ['Yaryna', 'Solomiia', 'Daryna']))
+
+
 def dump_json(obj, f):
     json.dump(obj, f, sort_keys=True, indent=4, ensure_ascii=False)
 
@@ -24,7 +28,10 @@ profile_path = f"/home/{user}/.local/share/Anki2/{profile}/collection.anki2"
 col = Collection(profile_path)
 Path(f"{out_dir}/models").mkdir(parents=True, exist_ok=True)
 for m in col.models.all():
-    dname = f"{out_dir}/models/{m['name']}"
+    mname = m['name']
+    if not include_model(mname):
+        continue
+    dname = f"{out_dir}/models/{mname}"
     Path(dname).mkdir(parents=True, exist_ok=True)
     with open(f"{dname}/index", 'w') as f:
         dump_json(m, f)
