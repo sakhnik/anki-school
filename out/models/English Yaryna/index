@@ -47,7 +47,7 @@
     "latexPost": "\\end{document}",
     "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
     "latexsvg": false,
-    "mod": 1637437113,
+    "mod": 1657568368,
     "name": "English Yaryna",
     "req": [
         [
@@ -70,7 +70,7 @@
     "tags": [],
     "tmpls": [
         {
-            "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}<br/>\n\n{{Example}}",
+            "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}<br/>\n\n{{Example}}<br/>\n\n<span id=\"query\" style=\"display: none;\">{{Front}}</span>\n<div id=\"google-image\"></div>\n<script type=\"text/javascript\" src=\"_random_clipart.js\"></script>\n",
             "bafmt": "",
             "bfont": "",
             "bqfmt": "",
@@ -78,10 +78,10 @@
             "did": null,
             "name": "En -> Ukr",
             "ord": 0,
-            "qfmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{Front}}<br/>\n{{Transcription}}<br/>\n<a href=\"https://duckduckgo.com/?q={{Front}}&t=ffhp&atb=v153-1&iax=images&ia=images\">Картинки</a>\n"
+            "qfmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{Front}}<br/>\n{{Transcription}}<br/>\n<a href=\"https://duckduckgo.com/?q={{Front}}&t=ffhp&atb=v153-1&iax=images&ia=images\">Картинки</a>"
         },
         {
-            "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}<br/>\n{{Transcription}}<br/>\n{{Example}}<br/>\n<a href=\"https://duckduckgo.com/?q={{Front}}&t=ffhp&atb=v153-1&iax=images&ia=images\">Картинки</a>\n",
+            "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}<br/>\n{{Transcription}}<br/>\n{{Example}}<br/>\n<a href=\"https://duckduckgo.com/?q={{Front}}&t=ffhp&atb=v153-1&iax=images&ia=images\">Картинки</a><br/>\n\n<span id=\"query\" style=\"display: none;\">{{Front}}</span>\n<div id=\"google-image\"></div>\n<script type=\"text/javascript\" src=\"_random_clipart.js\"></script>\n",
             "bafmt": "",
             "bfont": "",
             "bqfmt": "",
@@ -93,6 +93,6 @@
         }
     ],
     "type": 0,
-    "usn": 0,
+    "usn": 6381,
     "vers": []
 }

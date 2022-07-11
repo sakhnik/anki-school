@@ -8,6 +8,7 @@ import os
 from pathlib import Path
 from anki.collection import Collection
 import subprocess
+import glob
 
 
 out_dir = Path(__file__).absolute().parent.joinpath('out')
@@ -50,8 +51,12 @@ for m in col.models.all():
     with open(f"{dname}/notes", 'w') as f:
         dump_json(notes, f)
 
+# Copy scripts too
+script_files = glob.glob(f"{col.media.dir()}/_*.js")
+media_files = media_files.union({os.path.basename(f) for f in script_files})
+
 # Use rsync to copy media files
-file_list = [f"{col.media.dir()}/./{f}" for f in media_files]
+file_list = set(f"{col.media.dir()}/./{f}" for f in media_files)
 file_list = '\n'.join(sorted(file_list))
 subprocess.run(['rsync', '-raP', '--delete', "--files-from=-", "/",
                 out_dir.joinpath('collection.media')],
