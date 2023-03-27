@@ -3,37 +3,45 @@
     "did": 1618931579767,
     "flds": [
         {
+            "collapsed": false,
             "description": "",
             "font": "Arial",
             "name": "id",
             "ord": 0,
+            "plainText": false,
             "rtl": false,
             "size": 20,
             "sticky": false
         },
         {
+            "collapsed": false,
             "description": "",
             "font": "Arial",
             "name": "a",
             "ord": 1,
+            "plainText": false,
             "rtl": false,
             "size": 20,
             "sticky": false
         },
         {
+            "collapsed": false,
             "description": "",
             "font": "Arial",
             "name": "b",
             "ord": 2,
+            "plainText": false,
             "rtl": false,
             "size": 20,
             "sticky": false
         },
         {
+            "collapsed": false,
             "description": "",
             "font": "Arial",
             "name": "c",
             "ord": 3,
+            "plainText": false,
             "rtl": false,
             "size": 20,
             "sticky": false
@@ -43,7 +51,7 @@
     "latexPost": "\\end{document}",
     "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
     "latexsvg": false,
-    "mod": 1637959924,
+    "mod": 1661257658,
     "name": "Addition Yaryna",
     "req": [
         [

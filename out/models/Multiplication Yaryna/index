@@ -3,37 +3,45 @@
     "did": 1618931579767,
     "flds": [
         {
+            "collapsed": false,
             "description": "",
             "font": "Arial",
             "name": "id",
             "ord": 0,
+            "plainText": false,
             "rtl": false,
             "size": 20,
             "sticky": false
         },
         {
+            "collapsed": false,
             "description": "",
             "font": "Arial",
             "name": "a",
             "ord": 1,
+            "plainText": false,
             "rtl": false,
             "size": 20,
             "sticky": false
         },
         {
+            "collapsed": false,
             "description": "",
             "font": "Arial",
             "name": "b",
             "ord": 2,
+            "plainText": false,
             "rtl": false,
             "size": 20,
             "sticky": false
         },
         {
+            "collapsed": false,
             "description": "",
             "font": "Arial",
             "name": "c",
             "ord": 3,
+            "plainText": false,
             "rtl": false,
             "size": 20,
             "sticky": false

@@ -10,7 +10,11 @@ function getRandom(arr, n) {
     return result
 }
 
-var query = document.getElementById("query").innerText.replaceAll(' ', '+');
+var querySpan = document.getElementById("image-query");
+//console.log("query=" + JSON.stringify(querySpan, undefined, 2));
+var queryText = querySpan.textContent;
+//console.log("textContent=" + queryText);
+var query = queryText.replace(/ /g, '+');
 
 var sites = [{
       name: "google",

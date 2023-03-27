@@ -3,41 +3,49 @@
     "did": 1,
     "flds": [
         {
+            "collapsed": false,
             "description": "",
             "font": "Arimo",
             "media": [],
             "name": "Front",
             "ord": 0,
+            "plainText": false,
             "rtl": false,
             "size": 20,
             "sticky": false
         },
         {
+            "collapsed": false,
             "description": "",
             "font": "Arimo",
             "media": [],
             "name": "Back",
             "ord": 1,
+            "plainText": false,
             "rtl": false,
             "size": 20,
             "sticky": false
         },
         {
+            "collapsed": false,
             "description": "",
             "font": "DejaVu Sans",
             "media": [],
             "name": "Transcription",
             "ord": 2,
+            "plainText": false,
             "rtl": false,
             "size": 20,
             "sticky": false
         },
         {
+            "collapsed": false,
             "description": "",
             "font": "Arimo",
             "media": [],
             "name": "Example",
             "ord": 3,
+            "plainText": false,
             "rtl": false,
             "size": 20,
             "sticky": false
@@ -47,7 +55,7 @@
     "latexPost": "\\end{document}",
     "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
     "latexsvg": false,
-    "mod": 1657568426,
+    "mod": 1657903300,
     "name": "English Daryna",
     "req": [
         [
@@ -70,7 +78,7 @@
     "tags": [],
     "tmpls": [
         {
-            "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}<br/>\n\n{{Example}}<br/>\n\n<span id=\"query\" style=\"display: none;\">{{Front}}</span>\n<div id=\"google-image\"></div>\n<script type=\"text/javascript\" src=\"_random_clipart.js\"></script>\n",
+            "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}<br/>\n\n{{Example}}<br/>\n\n<span id=\"image-query\" style=\"display: none;\">{{Front}}</span>\n<div id=\"google-image\"></div>\n<script type=\"text/javascript\" src=\"_random_clipart-2.js\"></script>\n",
             "bafmt": "",
             "bfont": "",
             "bqfmt": "",
@@ -81,7 +89,7 @@
             "qfmt": "<small class=\"deck\">{{Deck}}</small><br/><br/>\n\n{{Front}}<br/>\n{{Transcription}}<br/>\n<a href=\"https://duckduckgo.com/?q={{Front}}&t=ffhp&atb=v153-1&iax=images&ia=images\">Картинки</a>\n"
         },
         {
-            "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}<br/>\n{{Transcription}}<br/>\n{{Example}}<br/>\n<a href=\"https://duckduckgo.com/?q={{Front}}&t=ffhp&atb=v153-1&iax=images&ia=images\">Картинки</a><br/>\n\n<span id=\"query\" style=\"display: none;\">{{Front}}</span>\n<div id=\"google-image\"></div>\n<script type=\"text/javascript\" src=\"_random_clipart.js\"></script>\n",
+            "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}<br/>\n{{Transcription}}<br/>\n{{Example}}<br/>\n<a href=\"https://duckduckgo.com/?q={{Front}}&t=ffhp&atb=v153-1&iax=images&ia=images\">Картинки</a><br/>\n\n<span id=\"image-query\" style=\"display: none;\">{{Front}}</span>\n<div id=\"google-image\"></div>\n<script type=\"text/javascript\" src=\"_random_clipart-2.js\"></script>\n",
             "bafmt": "",
             "bfont": "",
             "bqfmt": "",
@@ -93,6 +101,6 @@
         }
     ],
     "type": 0,
-    "usn": 6381,
+    "usn": 0,
     "vers": []
 }

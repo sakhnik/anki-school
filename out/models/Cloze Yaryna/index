@@ -1,0 +1,59 @@
+{
+    "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n.nightMode .cloze {\n    color: lightblue;\n}\n",
+    "did": null,
+    "flds": [
+        {
+            "collapsed": false,
+            "description": "",
+            "font": "Arial",
+            "name": "Текст",
+            "ord": 0,
+            "plainText": false,
+            "rtl": false,
+            "size": 20,
+            "sticky": false
+        },
+        {
+            "collapsed": false,
+            "description": "",
+            "font": "Arial",
+            "name": "Зворотня сторона за бажанням",
+            "ord": 1,
+            "plainText": false,
+            "rtl": false,
+            "size": 20,
+            "sticky": false
+        }
+    ],
+    "id": 1661258004132,
+    "latexPost": "\\end{document}",
+    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+    "latexsvg": false,
+    "mod": 1661258114,
+    "name": "Cloze Yaryna",
+    "req": [
+        [
+            0,
+            "any",
+            [
+                0
+            ]
+        ]
+    ],
+    "sortf": 0,
+    "tmpls": [
+        {
+            "afmt": "{{cloze:Текст}}<br>\n{{Зворотня сторона за бажанням}}",
+            "bafmt": "",
+            "bfont": "",
+            "bqfmt": "",
+            "bsize": 0,
+            "did": null,
+            "name": "Картка з пробілами",
+            "ord": 0,
+            "qfmt": "{{cloze:Текст}}"
+        }
+    ],
+    "type": 1,
+    "usn": 0
+}

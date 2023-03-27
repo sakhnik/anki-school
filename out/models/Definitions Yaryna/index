@@ -3,31 +3,37 @@
     "did": 1,
     "flds": [
         {
+            "collapsed": false,
             "description": "",
             "font": "Arial",
             "media": [],
             "name": "Front",
             "ord": 0,
+            "plainText": false,
             "rtl": false,
             "size": 20,
             "sticky": false
         },
         {
+            "collapsed": false,
             "description": "",
             "font": "Arimo",
             "media": [],
             "name": "Back",
             "ord": 1,
+            "plainText": false,
             "rtl": false,
             "size": 20,
             "sticky": false
         },
         {
+            "collapsed": false,
             "description": "",
             "font": "Arimo",
             "media": [],
             "name": "Example",
             "ord": 2,
+            "plainText": false,
             "rtl": false,
             "size": 20,
             "sticky": false
